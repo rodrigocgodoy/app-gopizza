@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "app-gopizza",
+    "slug": "app-gopizza",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "app-gopizza"
+}
